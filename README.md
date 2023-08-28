@@ -1,1 +1,1 @@
-# Conjunto de ejercicios para relazar las Prácticas de Programaion
+# Conjunto de ejercicios para realizar las Prácticas de Programaion
